@@ -30,6 +30,8 @@ public class twoDArray {
 			System.out.println("");
 		}
 		
+		System.out.println("The row this array is : "+a[0].length);
+		System.out.println("The coloumn this array is : "+a[0].length);
 
 	}
 
