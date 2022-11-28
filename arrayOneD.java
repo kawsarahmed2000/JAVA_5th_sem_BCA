@@ -19,5 +19,9 @@ public class arrayOneD {
 			System.out.print(a[i]+" ");
 		}
 	}
+	static void getArr() {
+		System.out.println("Enter array elements: ");
+		
+	}
 
 }
